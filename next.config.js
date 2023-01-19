@@ -3,6 +3,6 @@ module.exports = {
     loader: 'akamai',
     path: '',
   },
-  basePath: '/nextjs-pages',
-  assertPrefix: '/nextjs-pages',
+  basePath: '/netty-fish',
+  assertPrefix: '/netty-fish',
 }
