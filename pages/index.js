@@ -47,7 +47,7 @@ const Home = () => {
                                         <Image
                                             loader={myLoader}
 
-                                            src="/netty-fish/assets/Groupg.png"
+                                            src="/assets/Groupg.png"
                                             alt="Picture of the author"
                                             width={360}
                                             height={400}
@@ -127,7 +127,7 @@ const Home = () => {
 
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/aboutus.png"
+                                        src="/assets/aboutus.png"
                                         alt="Picture of the author"
                                         width={500}
                                         height={500}
@@ -149,7 +149,7 @@ const Home = () => {
 
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/playicon.png"
+                                        src="/assets/playicon.png"
                                         alt="Picture of the author"
                                         width={6}
                                         height={6}
@@ -196,7 +196,7 @@ const Home = () => {
                                                     <span>
                                                         <Image
                                                             loader={myLoader}
-                                                            src="/netty-fish/assets/play1.png"
+                                                            src="/assets/play1.png"
                                                             alt="Picture of the author"
                                                             width={50}
                                                             height={50}
@@ -209,7 +209,7 @@ const Home = () => {
                                             <li> <p><CgFormatLeft /> <span className={`${styles['title-solution']}`}> AI Powered - Cloud CRM</span> <span>
                                                 <Image
                                                     loader={myLoader}
-                                                    src="/netty-fish/assets/play1.png"
+                                                    src="/assets/play1.png"
                                                     alt="Picture of the author"
                                                     width={50}
                                                     height={50}
@@ -221,7 +221,7 @@ const Home = () => {
                                             <li> <p><CgFormatLeft /> <span className={`${styles['title-solution']}`}> RCS- Next generation of SMS</span> <span>
                                                 <Image
                                                     loader={myLoader}
-                                                    src="/netty-fish/assets/play1.png"
+                                                    src="/assets/play1.png"
                                                     alt="Picture of the author"
                                                     width={50}
                                                     height={50}
@@ -249,7 +249,7 @@ const Home = () => {
                                 <div>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/whatsapp.png"
+                                        src="/assets/whatsapp.png"
                                         alt="Picture of the author"
                                         width={500}
                                         height={500}
@@ -335,7 +335,7 @@ const Home = () => {
                                         <Image
                                             loader={myLoader}
                                             className={`${styles['chatbot']} imm chatbot`}
-                                            src="/netty-fish/assets/chatbot.png"
+                                            src="/assets/chatbot.png"
                                             alt="Picture of the author"
                                             width={500}
                                             height={500}
@@ -381,7 +381,7 @@ const Home = () => {
 
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/Rectangle 21 (3).png"
+                                        src="/assets/Rectangle 21 (3).png"
                                         alt="Picture of the author"
                                         width={300}
                                         height={300}
@@ -411,7 +411,7 @@ const Home = () => {
 
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/Rectangle 21 (4).png"
+                                        src="/assets/Rectangle 21 (4).png"
                                         alt="Picture of the author"
                                         width={300}
                                         height={300}
@@ -440,7 +440,7 @@ const Home = () => {
                                 <div className={`${styles['card']}`}>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/Rectangle 21 (5).png"
+                                        src="/assets/Rectangle 21 (5).png"
                                         alt="Picture of the author"
                                         width={300}
                                         height={300}
@@ -502,7 +502,7 @@ const Home = () => {
                                 <div>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/play1.png"
+                                        src="/assets/play1.png"
                                         alt="Picture of the author"
                                         width={50}
                                         height={50}
@@ -519,7 +519,7 @@ const Home = () => {
                                 <div className={`${styles['about-imgz']}`} style={{ marginTop: "20px" }}>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/group.png"
+                                        src="/assets/group.png"
                                         alt="Picture of the author"
                                         width={700}
                                         height={700}
@@ -553,7 +553,7 @@ const Home = () => {
                                 <div className={`${styles['about-imgz']}`} style={{ marginTop: "20px" }}>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/phone-img.png"
+                                        src="/assets/phone-img.png"
                                         alt="Picture of the author"
                                         width={400}
                                         height={300}
@@ -573,7 +573,7 @@ const Home = () => {
                                 <div>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/playicon.png"
+                                        src="/assets/playicon.png"
                                         alt="Picture of the author"
                                         width={50}
                                         height={50}
@@ -608,7 +608,7 @@ const Home = () => {
                                 <div className={`${styles['card']}`}>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/Rectangle 21.png"
+                                        src="/assets/Rectangle 21.png"
                                         alt="Picture of the author"
                                         width={356}
                                         height={400}
@@ -641,7 +641,7 @@ const Home = () => {
                                 <div className={`${styles['card']}`}>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/Rectangle 21 (1).png"
+                                        src="/assets/Rectangle 21 (1).png"
                                         alt="Picture of the author"
                                         width={356}
                                         height={400}
@@ -674,7 +674,7 @@ const Home = () => {
                                 <div className={`${styles['card']}`}>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/Rectangle 21 (2).png"
+                                        src="/assets/Rectangle 21 (2).png"
                                         alt="Picture of the author"
                                         width={356}
                                         height={400}
@@ -705,7 +705,7 @@ const Home = () => {
                                 <div style={{ marginTop: "25px" }}>
                                     <Image
                                         loader={myLoader}
-                                        src="/netty-fish/assets/play1.png"
+                                        src="/assets/play1.png"
                                         alt="Picture of the author"
                                         width={50}
                                         height={50}
