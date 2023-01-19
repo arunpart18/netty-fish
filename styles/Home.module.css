@@ -1,6 +1,6 @@
 
 .banner{
-  background-image: url("/assets/banner.png"); 
+  background-image: url("/netty-fish/assets/banner.png"); 
  padding: 100px 0px 30px 0px;
 }
 .logoimg{
@@ -81,12 +81,12 @@
 
 /* aboutus */
 .aboutus{
- background-image: url("/assets/scale.png");
+ background-image: url("/netty-fish/assets/scale.png");
  background: #eaf5ff40;
  padding: 30px 0px;
 }
 .integration{
- background-image: url("/assets/intebg1.png");
+ background-image: url("/netty-fish/assets/intebg1.png");
  overflow: hidden;
 }
 .aboutus .about-img{
@@ -298,7 +298,7 @@ margin-top: 12px;
 
 /* smarter */
 .smarter{
- background-image: url("/assets/dash2.png");
+ background-image: url("/netty-fish/assets/dash2.png");
  padding: 40px 0px;
 }
 .smarter .h1-1{
