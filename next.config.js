@@ -3,4 +3,6 @@ module.exports = {
     loader: 'akamai',
     path: '',
   },
+  basePath: '/nextjs-pages',
+  assertPrefix: '/nextjs-pages',
 }
